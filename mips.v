@@ -1,4 +1,5 @@
 
+ 
 module mips( 
     input clk, rst_n ); 
     wire RFWr; 

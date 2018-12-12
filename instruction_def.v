@@ -1,0 +1,22 @@
+
+// OP
+
+`define CTRL_OP_RTYPE 6'b000000
+
+`define CTRL_OP_ORI 6'b001101
+
+`define CTRL_OP_LW 6'b100011
+
+`define CTRL_OP_SW 6'b101011
+
+`define CTRL_OP_BEQ 6'b000100
+
+`define CTRL_OP_JAL 6'b000011
+
+
+
+// Funct
+
+`define CTRL_FUNCT_ADDU 6'b100001
+
+`define CTRL_FUNCT_SUBU 6'b100011
